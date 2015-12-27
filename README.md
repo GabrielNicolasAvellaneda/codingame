@@ -1,0 +1,2 @@
+# codingame
+Codingame.com Solutions
